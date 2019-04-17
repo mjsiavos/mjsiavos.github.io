@@ -4,7 +4,7 @@ description: >
   I made this blog to document my learning journey through various aspects of the information security field.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://www.siavoshani.com/" # the base hostname & protocol for your site
 
 author:
   fullname: Mohammad Siavoshani
